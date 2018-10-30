@@ -28,4 +28,12 @@
 
   console.log(dividerNumbers(10, 2));
 
+  function substractNumber(x, y){
+    return x - y;
+  }
+
+  substractNumber();
+
+  console.log(substractNumber(10, 8);)
+
 })();
