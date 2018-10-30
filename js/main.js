@@ -17,4 +17,15 @@
 
   console.log(multiplyNumbers(5, 5));
 
+  function dividerNumbers(x, y){
+    if(x >= y){
+      return x / y;
+    }
+    return "Erro: Imposível dividir";
+  }
+
+  dividerNumbers();
+
+  console.log(dividerNumbers(10, 2));
+
 })();
