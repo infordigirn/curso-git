@@ -34,6 +34,6 @@
 
   substractNumber();
 
-  console.log(substractNumber(10, 8);)
+  console.log(substractNumber(10, 8));
 
 })();
