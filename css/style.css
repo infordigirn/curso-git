@@ -1,11 +1,14 @@
 body {
   background: #e5e5e5;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  margin: 30px;
   text-align: center;
 }
 .title {
   color: blue;
+}
+.container-title {
+  background: url(../images/informatica.jpeg) no-repeat;
+  height: 200px
 }
 .container {
   border: 1px solid #000;
